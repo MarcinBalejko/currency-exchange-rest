@@ -1,2 +1,2 @@
-Supervillain REST API
+Currency Exchange REST
 =====================
